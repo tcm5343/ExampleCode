@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/Java/SortArrayListOfObjects/nbproject/private/
+/Java/SortArrayListOfObjects/build/
+/Java/SortArrayListOfObjects/dist/
