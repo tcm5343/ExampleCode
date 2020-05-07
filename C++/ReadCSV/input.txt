@@ -1,0 +1,3 @@
+car1,fast,nice,good looking
+car2,slow
+car3,pretty,nice
